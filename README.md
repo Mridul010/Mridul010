@@ -47,7 +47,7 @@
 
 <h3 align="left">What I do</h3>
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cXYxNXlwM3U2dXJ0dHVoYnVtOXJ0Y3R3a2J3NDlta3VpcmlqZHR2bSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/ekjmhJUGHJm7FC4Juo/200.webp" alt="Coding GIF" width="300">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cXYxNXlwM3U2dXJ0dHVoYnVtOXJ0Y3R3a2J3NDlta3VpcmlqZHR2bSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/ekjmhJUGHJm7FC4Juo/200.webp" alt="Coding GIF" width="400">
 </p>
 <br>
 
