@@ -45,10 +45,10 @@
 
 <br>
 
-<h3 align="left">What I do</h3>
+<!-- <h3 align="left">What I do</h3>
 <p align="center">
   <img src="https://cdn.pixabay.com/animation/2025/02/03/21/46/21-46-03-725_512.gif" alt="Coding GIF" width="300">
-</p>
+</p> -->
 
 <br>
 
