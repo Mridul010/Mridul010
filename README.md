@@ -45,11 +45,10 @@
 
 <br>
 
-<!-- <h3 align="left">What I do</h3>
+<h3 align="left">What I do</h3>
 <p align="center">
-  <img src="https://cdn.pixabay.com/animation/2025/02/03/21/46/21-46-03-725_512.gif" alt="Coding GIF" width="300">
-</p> -->
-
+  <img src="https://media0.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cXYxNXlwM3U2dXJ0dHVoYnVtOXJ0Y3R3a2J3NDlta3VpcmlqZHR2bSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/ekjmhJUGHJm7FC4Juo/200.webp" alt="Coding GIF" width="300">
+</p>
 <br>
 
 <h3 align="center">My GitHub Stats</h3>
