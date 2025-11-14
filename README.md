@@ -44,7 +44,7 @@
 
 <h3 align="left">What I do</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/assets/images/computer-coding.gif" alt="Coding GIF" width="600">
+  <img src="https://camo.githubusercontent.com/65c8bdddf5ec341df6c799c22a262af45842222198e2e61373a26b10470ed308/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6a49675866346867624843654b69587076742f67697068792e676966" alt="Coding GIF" width="600">
 </p>
 
 <br>
