@@ -24,7 +24,7 @@
 - 🌱 I’m currently learning more about **System Design**.
 - 👯 I’m looking to collaborate on **open-source Python projects** or challenging backend applications.
 - 🤔 Ask me about: **Python, Flask, SQL, Selenium, or AI/ML**.
-- 📧 How to reach me: **mridulchundaran.workspace@gmail.com**
+- 📧 How to reach me: **mridulchundaran@gmail.com**
 
 <br>
 
