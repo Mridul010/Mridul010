@@ -20,7 +20,7 @@
 
 &nbsp;
 
-🔴 &nbsp;**Currently shipping** — `Pulsed` · *A signal-driven portfolio where motion meets engineering*  
+🔴 &nbsp;**Currently shipping** — `Pulse DB` · *A signal-driven portfolio where motion meets engineering*  
 🕵️ &nbsp;**Currently studying** — Advanced MySQL · *Interrogating schemas like a Data Detective*  
 📍 &nbsp;**Based in** — Kerala, India
 
