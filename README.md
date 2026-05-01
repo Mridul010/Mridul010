@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/logo.png" alt="Mridul Chundaran" width="220" />
+<img src="./white line.png" alt="Mridul Chundaran" width="220" />
 
 <br/>
 
