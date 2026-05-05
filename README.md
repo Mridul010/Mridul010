@@ -58,7 +58,7 @@ If it runs on a server, I've probably broken it — and fixed it.
 
 </div>
 
-<div align="center">
+<!-- <div align="center">
 
 ```
 Python        ▓▓▓▓▓▓▓▓░░  Advanced
@@ -71,7 +71,7 @@ Docker        ▓▓▓░░░░░░░  Learning
 System Design ▓▓▓░░░░░░░  Learning
 ```
 
-</div>
+</div> -->
 
 ## 🚀 Projects
 
