@@ -162,22 +162,6 @@ Multi-model ensemble for stock & financial forecasting. Deep learning meets grad
 
 </div>
 
----
-
-## 🛠 Proficiency
-
-```
-Python        ▓▓▓▓▓▓▓▓░░  Advanced
-MySQL         ▓▓▓▓▓▓▓▓░░  Advanced
-Flask / APIs  ▓▓▓▓▓▓░░░░  Proficient
-Linux         ▓▓▓▓▓▓░░░░  Proficient
-ML / Scikit   ▓▓▓▓▓░░░░░  Intermediate
-Docker        ▓▓▓░░░░░░░  Learning
-TCP/IP        ▓▓▓░░░░░░░  Learning
-```
-
----
-
 ## 🛠 Arsenal
 
 | Category | Tools |
