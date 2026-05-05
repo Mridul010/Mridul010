@@ -1,10 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,50:0a1f0a,100:A8FF78&height=240&section=header&text=Mridul%20Chundaran&fontSize=55&fontColor=A8FF78&fontAlignY=45&desc=Backend%20Engineer%20%E2%80%94%20System%20Design%20%E2%80%94%20ML%20Practitioner&descSize=14&descAlignY=65&descColor=c9d1d9" width="100%" />
+<!-- Save header.svg from this repo into your profile repo root -->
+<img src="./header.svg" width="100%" alt="Mridul Chundaran" />
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2600&pause=900&color=A8FF78&center=true&vCenter=true&width=640&lines=Building+systems+that+never+break+%F0%9F%94%A5;Backends+%7C+APIs+%7C+Distributed+Systems;Currently+shipping+%3A+Pulse+DB+%E2%9A%A1;Aspiring+System+Design+Engineer+%F0%9F%8E%AF;Kerala+%E2%86%92+Backend+%E2%86%92+Everywhere+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Mono&weight=500&size=16&duration=2400&pause=1000&color=A8FF78&center=true&vCenter=true&width=640&lines=Building+systems+that+never+break+%F0%9F%94%A5;Backends+%7C+APIs+%7C+Distributed+Systems;Currently+shipping+%3A+Pulse+DB+%E2%9A%A1;Aspiring+System+Design+Engineer+%F0%9F%8E%AF;Kerala+%E2%86%92+Backend+%E2%86%92+Everywhere+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br/>
 
@@ -15,7 +16,6 @@
 ![Stars](https://img.shields.io/github/stars/mridul010?color=A8FF78&logo=github&style=flat-square&label=STARS)
 
 </div>
-
 ---
 
 ### `> whoami`
@@ -40,21 +40,38 @@ If it runs on a server, I've probably broken it — and fixed it.
 
 <div align="center">
 
-**Backend & APIs**
+**Languages**
 
-[![Skills](https://skillicons.dev/icons?i=python,flask,nodejs,mysql,postgres,redis&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=python,js,java,c,html,css&theme=dark)](https://skillicons.dev)
 
-**Systems & Infra**
+**Backend & Databases**
 
-[![Skills](https://skillicons.dev/icons?i=linux,docker,git,github,postman,selenium&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=flask,nodejs,fastapi,mysql,postgres,firebase&theme=dark)](https://skillicons.dev)
 
 **AI / ML**
 
-[![Skills](https://skillicons.dev/icons?i=tensorflow,sklearn,pytorch&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=tensorflow,sklearn,pytorch,opencv&theme=dark)](https://skillicons.dev)
+
+**Systems, Tools & Infra**
+
+[![Skills](https://skillicons.dev/icons?i=linux,docker,git,github,postman,selenium&theme=dark)](https://skillicons.dev)
 
 </div>
 
----
+<div align="center">
+
+```
+Python        ▓▓▓▓▓▓▓▓░░  Advanced
+MySQL · SQL   ▓▓▓▓▓▓▓▓░░  Advanced
+Flask / APIs  ▓▓▓▓▓▓▓░░░  Proficient
+Linux         ▓▓▓▓▓▓░░░░  Proficient
+Scikit-Learn  ▓▓▓▓▓▓░░░░  Proficient
+TCP/IP · Net  ▓▓▓▓▓░░░░░  Intermediate
+Docker        ▓▓▓░░░░░░░  Learning
+System Design ▓▓▓░░░░░░░  Learning
+```
+
+</div>
 
 ## 🚀 Projects
 
