@@ -141,29 +141,17 @@ Multi-model ensemble for stock & financial forecasting. Deep learning meets grad
 
 ## 🏅 Highlights
 
-<div align="center">
+## 🛠 Arsenal
 
-![](https://img.shields.io/badge/Role-Backend_Engineer_@_Brahmanet-A8FF78?style=for-the-badge&labelColor=0D1117)
-&nbsp;
-![](https://img.shields.io/badge/ML_Accuracy-Up_to_92%25-A8FF78?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=0D1117)
-&nbsp;
-![](https://img.shields.io/badge/PWAs_Shipped-2-A8FF78?style=for-the-badge&labelColor=0D1117)
-
-<br/><br/>
-
-![](https://img.shields.io/badge/Python-Advanced-A8FF78?style=flat-square&logo=python&logoColor=white&labelColor=0D1117)
-&nbsp;
-![](https://img.shields.io/badge/MySQL-Advanced-A8FF78?style=flat-square&logo=mysql&logoColor=white&labelColor=0D1117)
-&nbsp;
-![](https://img.shields.io/badge/REST_APIs-Proficient-A8FF78?style=flat-square&logo=fastapi&logoColor=white&labelColor=0D1117)
-&nbsp;
-![](https://img.shields.io/badge/Linux-Proficient-A8FF78?style=flat-square&logo=linux&logoColor=white&labelColor=0D1117)
-&nbsp;
-![](https://img.shields.io/badge/Docker-Learning-A8FF78?style=flat-square&logo=docker&logoColor=white&labelColor=0D1117)
-&nbsp;
-![](https://img.shields.io/badge/TCP%2FIP_&_Sockets-Familiar-A8FF78?style=flat-square&labelColor=0D1117)
-
-</div>
+| Category | Tools |
+|----------|-------|
+| **Languages** | Python · JavaScript · SQL · C |
+| **Backend** | Flask · Node.js · REST APIs · Server-Side Dev |
+| **Databases** | MySQL · PostgreSQL · Firebase |
+| **Systems** | Linux · Docker · TCP/IP · Socket Programming |
+| **ML** | Scikit-Learn · TensorFlow · XGBoost · Pandas |
+| **Automation** | Selenium · GitHub Actions · Puppeteer |
+| **Tools** | Git · Postman · VSCode |
 
 ---
 
