@@ -129,17 +129,37 @@ Multi-model ensemble for stock & financial forecasting. Deep learning meets grad
 
 ---
 
-## 🟩 Commit Activity
+## 📈 GitHub Overview
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/A8FF78/mridul010" alt="GitHub Contribution Grid" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mridul010&theme=github_dark" width="100%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mridul010&theme=github_dark" height="175" />
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mridul010&theme=github_dark" height="175" />
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mridul010&theme=github_dark" height="175" />
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mridul010&theme=github_dark" height="175" />
 
 </div>
 
 ---
 
-## 🏅 Highlights
+## 🛠 Proficiency
+
+```
+Python        ▓▓▓▓▓▓▓▓░░  Advanced
+MySQL         ▓▓▓▓▓▓▓▓░░  Advanced
+Flask / APIs  ▓▓▓▓▓▓░░░░  Proficient
+Linux         ▓▓▓▓▓▓░░░░  Proficient
+ML / Scikit   ▓▓▓▓▓░░░░░  Intermediate
+Docker        ▓▓▓░░░░░░░  Learning
+TCP/IP        ▓▓▓░░░░░░░  Learning
+```
+
+---
 
 ## 🛠 Arsenal
 
