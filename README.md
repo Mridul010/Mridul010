@@ -86,8 +86,6 @@
 
 <details>
 <summary>⚙️ Enable the contribution snake</summary>
-<br/>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mridul010/Mridul010/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mridul010/Mridul010/output/github-contribution-grid-snake.svg">
