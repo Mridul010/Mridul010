@@ -1,0 +1,232 @@
+<svg width="900" height="280" viewBox="0 0 900 280" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@700&amp;family=DM+Mono:wght@400;500&amp;display=swap');
+
+      .bg { fill: #0D1117; }
+
+      /* Grid lines */
+      .grid-h { stroke: #A8FF7808; stroke-width: 1; }
+      .grid-v { stroke: #A8FF7806; stroke-width: 1; }
+
+      /* Corner brackets */
+      .bracket { stroke: #A8FF78; stroke-width: 1.5; fill: none; opacity: 0; animation: bracketIn 0.4s ease forwards; }
+      .bracket-tl { animation-delay: 0.1s; }
+      .bracket-tr { animation-delay: 0.2s; }
+      .bracket-bl { animation-delay: 0.3s; }
+      .bracket-br { animation-delay: 0.4s; }
+
+      /* Top label */
+      .top-label {
+        font-family: 'DM Mono', monospace;
+        font-size: 10px;
+        fill: #A8FF7855;
+        letter-spacing: 4px;
+        opacity: 0;
+        animation: fadeUp 0.6s ease 0.5s forwards;
+      }
+
+      /* Main name */
+      .name-base {
+        font-family: 'DM Mono', monospace;
+        font-size: 58px;
+        font-weight: 700;
+        fill: #A8FF78;
+        letter-spacing: -1px;
+        opacity: 0;
+        animation: nameReveal 0.8s cubic-bezier(0.16, 1, 0.3, 1) 0.7s forwards;
+      }
+      .name-glow {
+        font-family: 'DM Mono', monospace;
+        font-size: 58px;
+        font-weight: 700;
+        fill: none;
+        stroke: #A8FF78;
+        stroke-width: 0;
+        letter-spacing: -1px;
+        filter: url(#glow);
+        opacity: 0;
+        animation: glowPulse 3s ease-in-out 1.5s infinite;
+      }
+
+      /* Glitch layers */
+      .name-glitch-r {
+        font-family: 'DM Mono', monospace;
+        font-size: 58px;
+        font-weight: 700;
+        fill: #ff4d4d22;
+        letter-spacing: -1px;
+        opacity: 0;
+        animation: glitchR 5s step-end 2s infinite;
+      }
+      .name-glitch-b {
+        font-family: 'DM Mono', monospace;
+        font-size: 58px;
+        font-weight: 700;
+        fill: #4dffff22;
+        letter-spacing: -1px;
+        opacity: 0;
+        animation: glitchB 5s step-end 2.1s infinite;
+      }
+
+      /* Subtitle */
+      .subtitle {
+        font-family: 'DM Mono', monospace;
+        font-size: 12px;
+        fill: #c9d1d9;
+        letter-spacing: 3px;
+        opacity: 0;
+        animation: fadeUp 0.6s ease 1.3s forwards;
+      }
+      .subtitle-dot { fill: #A8FF78; }
+
+      /* Cursor */
+      .cursor {
+        fill: #A8FF78;
+        animation: blink 1s step-end 1.5s infinite;
+      }
+
+      /* Bottom status bar */
+      .status-bar { fill: #A8FF7810; }
+      .status-text {
+        font-family: 'DM Mono', monospace;
+        font-size: 9px;
+        fill: #A8FF7888;
+        letter-spacing: 2px;
+        opacity: 0;
+        animation: fadeUp 0.5s ease 1.6s forwards;
+      }
+
+      /* Scan line */
+      .scanline {
+        fill: none;
+        stroke: #A8FF7812;
+        stroke-width: 280;
+        animation: scan 3s linear 1.5s infinite;
+      }
+
+      /* Side accent lines */
+      .accent-line {
+        stroke: #A8FF78;
+        stroke-width: 1;
+        opacity: 0;
+        animation: lineGrow 0.6s ease forwards;
+      }
+      .accent-left { animation-delay: 0.9s; }
+      .accent-right { animation-delay: 1.0s; }
+
+      /* Keyframes */
+      @keyframes bracketIn {
+        from { opacity: 0; stroke-dashoffset: 40; }
+        to   { opacity: 1; stroke-dashoffset: 0; }
+      }
+      @keyframes fadeUp {
+        from { opacity: 0; transform: translateY(6px); }
+        to   { opacity: 1; transform: translateY(0); }
+      }
+      @keyframes nameReveal {
+        from { opacity: 0; transform: translateY(12px); }
+        to   { opacity: 1; transform: translateY(0); }
+      }
+      @keyframes glowPulse {
+        0%,100% { opacity: 0; }
+        50%      { opacity: 0.25; }
+      }
+      @keyframes glitchR {
+        0%,90%,100% { opacity: 0; transform: translate(0,0); }
+        91% { opacity: 1; transform: translate(-3px, 1px); }
+        93% { opacity: 0; transform: translate(0,0); }
+        95% { opacity: 1; transform: translate(2px,-1px); }
+        97% { opacity: 0; }
+      }
+      @keyframes glitchB {
+        0%,90%,100% { opacity: 0; transform: translate(0,0); }
+        92% { opacity: 1; transform: translate(3px,0px); }
+        94% { opacity: 0; }
+        96% { opacity: 1; transform: translate(-2px,1px); }
+        98% { opacity: 0; }
+      }
+      @keyframes blink {
+        0%,49% { opacity: 1; }
+        50%,100% { opacity: 0; }
+      }
+      @keyframes scan {
+        0%   { transform: translateY(-280px); opacity: 1; }
+        100% { transform: translateY(280px);  opacity: 0; }
+      }
+      @keyframes lineGrow {
+        from { opacity: 0; stroke-dashoffset: 60; }
+        to   { opacity: 0.6; stroke-dashoffset: 0; }
+      }
+    </style>
+
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+
+    <!-- Clip for scanline -->
+    <clipPath id="clip"><rect width="900" height="280"/></clipPath>
+  </defs>
+
+  <!-- Background -->
+  <rect class="bg" width="900" height="280"/>
+
+  <!-- Grid -->
+  <g opacity="1">
+    <line class="grid-h" x1="0" y1="70"  x2="900" y2="70"/>
+    <line class="grid-h" x1="0" y1="140" x2="900" y2="140"/>
+    <line class="grid-h" x1="0" y1="210" x2="900" y2="210"/>
+    <line class="grid-v" x1="225" y1="0" x2="225" y2="280"/>
+    <line class="grid-v" x1="450" y1="0" x2="450" y2="280"/>
+    <line class="grid-v" x1="675" y1="0" x2="675" y2="280"/>
+  </g>
+
+  <!-- Scanline sweep -->
+  <g clip-path="url(#clip)">
+    <line class="scanline" x1="0" y1="0" x2="900" y2="0"/>
+  </g>
+
+  <!-- Corner brackets -->
+  <polyline class="bracket bracket-tl" points="40,45 20,45 20,25 40,25" stroke-dasharray="40"/>
+  <polyline class="bracket bracket-tr" points="860,45 880,45 880,25 860,25" stroke-dasharray="40"/>
+  <polyline class="bracket bracket-bl" points="40,235 20,235 20,255 40,255" stroke-dasharray="40"/>
+  <polyline class="bracket bracket-br" points="860,235 880,235 880,255 860,255" stroke-dasharray="40"/>
+
+  <!-- Side accent lines -->
+  <line class="accent-line accent-left"  x1="20" y1="100" x2="20" y2="180" stroke-dasharray="60"/>
+  <line class="accent-line accent-right" x1="880" y1="100" x2="880" y2="180" stroke-dasharray="60"/>
+
+  <!-- Top label -->
+  <text class="top-label" x="450" y="60" text-anchor="middle">// BACKEND ENGINEER  ·  SYSTEM DESIGN  ·  KERALA</text>
+
+  <!-- Name — glitch layers -->
+  <text class="name-glitch-r" x="450" y="158" text-anchor="middle">Mridul Chundaran</text>
+  <text class="name-glitch-b" x="450" y="158" text-anchor="middle">Mridul Chundaran</text>
+
+  <!-- Name — glow layer -->
+  <text class="name-glow" x="450" y="158" text-anchor="middle">Mridul Chundaran</text>
+
+  <!-- Name — main -->
+  <text class="name-base" x="450" y="158" text-anchor="middle">Mridul Chundaran</text>
+
+  <!-- Cursor -->
+  <rect class="cursor" x="748" y="134" width="3" height="34" rx="1"/>
+
+  <!-- Subtitle -->
+  <text class="subtitle" x="450" y="192" text-anchor="middle">
+    Backend
+    <tspan class="subtitle-dot"> ● </tspan>
+    APIs
+    <tspan class="subtitle-dot"> ● </tspan>
+    System Design
+    <tspan class="subtitle-dot"> ● </tspan>
+    ML
+  </text>
+
+  <!-- Status bar -->
+  <rect class="status-bar" x="0" y="255" width="900" height="25"/>
+  <text class="status-text" x="30" y="271">● ONLINE</text>
+  <text class="status-text" x="450" y="271" text-anchor="middle">mridul010 · Brahmanet IT Solutions · Kochi</text>
+  <text class="status-text" x="870" y="271" text-anchor="end">v2.0.26</text>
+</svg>
