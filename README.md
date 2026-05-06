@@ -1,130 +1,196 @@
+<!-- ████████████████████████████████████████████████████████████████ -->
+<!--                   MRIDUL CHUNDARAN — README.md                  -->
+<!--              The only README you'll ever need to read.           -->
+<!-- ████████████████████████████████████████████████████████████████ -->
+
 <div align="center">
 
-<!-- Save header.svg from this repo into your profile repo root -->
-<img src="./header.svg" width="100%" alt="Mridul Chundaran" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,40:0a1f0a,100:A8FF78&height=220&section=header&text=Mridul%20Chundaran&fontSize=62&fontColor=A8FF78&fontAlignY=45&desc=Backend%20Engineer%20%E2%80%A2%20Systems%20Builder%20%E2%80%A2%20Kerala%20%E2%86%92%20Backend%20%E2%86%92%20Everywhere&descAlignY=67&descSize=15&descColor=c9d1d9&animation=fadeIn" width="100%" />
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Mono&weight=500&size=16&duration=2400&pause=1000&color=A8FF78&center=true&vCenter=true&width=640&lines=Building+systems+that+never+break+%F0%9F%94%A5;Backends+%7C+APIs+%7C+Distributed+Systems;Currently+shipping+%3A+Pulse+DB+%E2%9A%A1;Aspiring+System+Design+Engineer+%F0%9F%8E%AF;Kerala+%E2%86%92+Backend+%E2%86%92+Everywhere+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2200&pause=900&color=A8FF78&center=true&vCenter=true&multiline=false&width=700&lines=Building+systems+that+never+break+%F0%9F%94%A5;Backends+%E2%80%A2+APIs+%E2%80%A2+Distributed+Systems;Currently+shipping+%3A%3A+Pulse+DB+%E2%9A%A1;First+make+it+work.+Then+make+it+scale.;Kerala+%E2%86%92+Backend+%E2%86%92+Everywhere+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=mridul010&color=A8FF78&style=flat-square&label=PROFILE+VIEWS)
+[![Profile Views](https://komarev.com/ghpvc/?username=mridul010&color=A8FF78&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/mridul010)
 &nbsp;
-[![Followers](https://img.shields.io/github/followers/mridul010?color=A8FF78&logo=github&style=flat-square&label=FOLLOWERS)](https://github.com/mridul010)
+[![GitHub Followers](https://img.shields.io/github/followers/mridul010?color=A8FF78&logo=github&style=for-the-badge&label=FOLLOWERS)](https://github.com/mridul010?tab=followers)
 &nbsp;
-![Stars](https://img.shields.io/github/stars/mridul010?color=A8FF78&logo=github&style=flat-square&label=STARS)
+[![GitHub Stars](https://img.shields.io/github/stars/mridul010?color=A8FF78&logo=github&style=for-the-badge&label=STARS)](https://github.com/mridul010)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=A8FF78)](https://www.linkedin.com/in/mridul-chundaran/)
 
 </div>
+
 ---
 
-### `> whoami`
+## `$ whoami`
 
-**Software Engineer @ Brahmanet IT Solutions, Kochi**
+```bash
+┌──────────────────────────────────────────────────────────────────┐
+│                                                                    │
+│   Name     : Mridul Chundaran                                     │
+│   Role     : Software Engineer @ Brahmanet IT Solutions, Kochi    │
+│   Focus    : Backend · System Design · ML Engineering             │
+│   Location : Kerala, India 🌿                                     │
+│   Status   : [██████████] Shipping Pulse DB ⚡                   │
+│   OS       : Arch Linux btw                                       │
+│                                                                    │
+│   "First, make it work. Then, make it scale."                    │
+│                                                                    │
+└──────────────────────────────────────────────────────────────────┘
+```
 
 I build backends, train models, and automate the boring stuff.  
-If it runs on a server, I've probably broken it — and fixed it.
-
-> *"First, make it work. Then, make it scale."*
-
-&nbsp;
-
-🔴 &nbsp;**Shipping** → `Pulse DB` *(just going with the flow)*  
-📚 &nbsp;**Studying** → Advanced MySQL · *interrogating schemas like a detective*  
-🎯 &nbsp;**Goal** → Backend + System Design Engineer  
-📍 &nbsp;**Based in** → Kerala, India 🌿
+If it runs on a server — I've probably broken it, debugged it at 2AM, and made it production-ready by morning.
 
 ---
 
-## ⚙️ Stack
+## `$ cat current_status.log`
+
+```
+[SHIPPING]  ⚡ Pulse DB           → Custom database engine, built from scratch
+[LEARNING]  📚 Advanced MySQL     → Interrogating schemas like a detective
+[EXPLORING] 🔭 System Design      → Distributed systems, consistency, trade-offs
+[GRINDING]  🎯 DSA + Low-Level    → Because foundations matter
+[LOCATION]  📍 Kerala, India      → Kochi → Backend → Everywhere
+```
+
+---
+
+## `$ cat skills.json`
 
 <div align="center">
 
-**Languages**
+### 〔 Languages 〕
 
-[![Skills](https://skillicons.dev/icons?i=python,js,java,c,html,css&theme=dark)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=python,js,java,c,html,css&theme=dark&perline=6)](https://skillicons.dev)
 
-**Backend & Databases**
+### 〔 Backend & Databases 〕
 
-[![Skills](https://skillicons.dev/icons?i=flask,nodejs,fastapi,mysql,postgres,firebase&theme=dark)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=flask,nodejs,fastapi,mysql,postgres,firebase&theme=dark&perline=6)](https://skillicons.dev)
 
-**AI / ML**
+### 〔 AI · ML · Data 〕
 
-[![Skills](https://skillicons.dev/icons?i=tensorflow,sklearn,pytorch,opencv&theme=dark)](https://skillicons.dev)
+[![AI/ML](https://skillicons.dev/icons?i=tensorflow,sklearn,pytorch,opencv&theme=dark&perline=6)](https://skillicons.dev)
 
-**Systems, Tools & Infra**
+### 〔 Systems · Tools · Infra 〕
 
-[![Skills](https://skillicons.dev/icons?i=linux,docker,git,github,postman,selenium&theme=dark)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=linux,docker,git,github,postman,selenium&theme=dark&perline=6)](https://skillicons.dev)
 
 </div>
 
-<!-- <div align="center">
+<br/>
+
+### Proficiency Snapshot
 
 ```
-Python        ▓▓▓▓▓▓▓▓░░  Advanced
-MySQL · SQL   ▓▓▓▓▓▓▓▓░░  Advanced
-Flask / APIs  ▓▓▓▓▓▓▓░░░  Proficient
-Linux         ▓▓▓▓▓▓░░░░  Proficient
-Scikit-Learn  ▓▓▓▓▓▓░░░░  Proficient
-TCP/IP · Net  ▓▓▓▓▓░░░░░  Intermediate
-Docker        ▓▓▓░░░░░░░  Learning
-System Design ▓▓▓░░░░░░░  Learning
+Python        ████████████████████░░   Expert
+MySQL · SQL   ████████████████████░░   Expert
+Flask · APIs  ███████████████████░░░   Advanced
+Linux         ██████████████████░░░░   Advanced
+Scikit-Learn  ██████████████████░░░░   Advanced
+TCP/IP · Net  ████████████████░░░░░░   Intermediate
+Docker        ████████████░░░░░░░░░░   Intermediate
+System Design ████████████░░░░░░░░░░   Intermediate → Growing fast
 ```
 
-</div> -->
+---
 
-## 🚀 Projects
+## `$ ls -la ./projects/`
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### ⚡ [FuelRate](https://github.com/Mridul010) &nbsp;&nbsp;`LATEST`
-> PWA · Fuel Intelligence · Cloud Edge
+### ⚡ [FuelRate](https://github.com/Mridul010) &nbsp; `LATEST` &nbsp; 🟢 Live
 
-High-end PWA for fuel price transparency across 50+ Indian cities. Hybrid flat-file backend via Puppeteer scraping. Sub-500ms load, offline via Service Workers.
+> **PWA · Fuel Intelligence · Cloud Edge**
 
-`HTML5` &nbsp;`CSS3` &nbsp;`Vanilla JS` &nbsp;`Puppeteer` &nbsp;`GitHub Actions`
+High-end PWA delivering real-time fuel price data across **50+ Indian cities**. Built with a hybrid flat-file backend powered by Puppeteer scraping & GitHub Actions automation.
 
-🟢 **Live**
+- 🚀 Sub-500ms load time
+- 📶 Full offline support via Service Workers
+- 🤖 Auto-scraping pipeline with GitHub Actions
+- 🗺️ 50+ Indian cities covered
+
+`HTML5` `CSS3` `Vanilla JS` `Puppeteer` `GitHub Actions`
 
 </td>
 <td width="50%" valign="top">
 
-### ⚡ [EBON — Bill Advisor](https://github.com/Mridul010)
-> *"Edakk Bill Okke Nokkanam"* — *Check your bills sometimes*
+### ⚡ [EBON — Bill Advisor](https://github.com/Mridul010) &nbsp; 🟢 Live
 
-Smart PWA for KSEB consumers. Slab-based bill calculation, bilingual (EN/ML), Zomato-style receipt breakdown, offline-ready.
+> *"Edakk Bill Okke Nokkanam"* — **Check your bills sometimes**
 
-`Vanilla JS` &nbsp;`CSS3` &nbsp;`PWA` &nbsp;`Service Workers`
+Smart PWA for KSEB electricity consumers. Slab-based bill intelligence with a Zomato-style receipt breakdown — because your electricity bill shouldn't be a mystery.
 
-🟢 **Live**
+- 🌐 Bilingual: English + Malayalam
+- 📱 PWA — installable, offline-ready
+- 🧾 Slab-aware calculation engine
+- ⚡ KSEB tariff accurate
+
+`Vanilla JS` `CSS3` `PWA` `Service Workers`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 [Smart Lead AI](https://github.com/Mridul010/Smart-Lead-Ai)
-> NLP · Lead Analytics · Predictive ML
+### 🧠 [Smart Lead AI](https://github.com/Mridul010/Smart-Lead-Ai) &nbsp; 🎯 91% Accuracy
 
-Predicts which leads convert using ML trained on behavioral signals. Served as a REST API.
+> **NLP · Lead Analytics · Predictive ML**
 
-`Flask` &nbsp;`Scikit-Learn` &nbsp;`Python`
+ML pipeline that predicts which leads convert — trained on real behavioral signals and shipped as a clean REST API. The kind of tool sales teams actually use.
 
-🎯 **91% accuracy**
+- 🤖 Scikit-Learn ML pipeline
+- 🔌 REST API via Flask
+- 📊 Feature-engineered behavioral data
+- **🎯 91% prediction accuracy**
+
+`Flask` `Scikit-Learn` `Python` `REST API`
 
 </td>
 <td width="50%" valign="top">
 
-### 📈 [TrackEx](https://github.com/Mridul010)
-> FinTech · Neural Forecast · Data Vision
+### 📈 [TrackEx](https://github.com/Mridul010) &nbsp; 🎯 92% Accuracy
 
-Multi-model ensemble for stock & financial forecasting. Deep learning meets gradient boosting.
+> **FinTech · Neural Forecast · Data Vision**
 
-`Bi-LSTM` &nbsp;`XGBoost` &nbsp;`CNN`
+Multi-model ensemble for stock & financial time-series forecasting. Deep learning meets gradient boosting — because no single model tells the whole story.
 
-🎯 **92% accuracy**
+- 🧠 Bi-LSTM for sequence modeling
+- 🌲 XGBoost for ensemble power
+- 👁️ CNN for pattern extraction
+- **🎯 92% directional accuracy**
+
+`Bi-LSTM` `XGBoost` `CNN` `Python`
+
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center" valign="top">
+
+### ⚡ Pulse DB &nbsp;&nbsp; `CURRENTLY BUILDING` &nbsp;&nbsp; 🔴 In Active Development
+
+> **Custom Database Engine · Built From Scratch · Kerala's Own Contribution to Systems**
+
+```
+┌──────────────────────────────────────────────────────────┐
+│  ⚡ PULSE DB — A Database Engine Built From The Ground Up │
+│                                                            │
+│  Storage Engine  →  [████████░░]  Building               │
+│  Query Parser    →  [██████░░░░]  In Progress             │
+│  Index Manager   →  [████░░░░░░]  Designing               │
+│  Network Layer   →  [██░░░░░░░░]  Planned                 │
+│                                                            │
+│  "Not using someone else's database.                      │
+│   Building my own."                                       │
+└──────────────────────────────────────────────────────────┘
+```
+
+`C` `Python` `Systems Programming` `Custom Storage Engine`
 
 </td>
 </tr>
@@ -132,25 +198,49 @@ Multi-model ensemble for stock & financial forecasting. Deep learning meets grad
 
 ---
 
-## 📊 GitHub Stats
+## `$ git log --stat`
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mridul010&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=A8FF78&icon_color=A8FF78&text_color=c9d1d9&count_private=true&rank_icon=github" />
-&nbsp;
-<img height="170" src="https://streak-stats.demolab.com/?user=mridul010&theme=github-dark-blue&hide_border=true&background=0D1117&ring=A8FF78&fire=A8FF78&currStreakLabel=A8FF78" />
-&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mridul010&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=A8FF78&text_color=c9d1d9&langs_count=5" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=mridul010&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=A8FF78&icon_color=A8FF78&text_color=c9d1d9&count_private=true&rank_icon=github&include_all_commits=true" />
+&nbsp;&nbsp;
+<img height="180" src="https://streak-stats.demolab.com/?user=mridul010&theme=github-dark-blue&hide_border=true&background=0D1117&ring=A8FF78&fire=A8FF78&currStreakLabel=A8FF78&sideLabels=c9d1d9&dates=c9d1d9" />
+
+<br/><br/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mridul010&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=A8FF78&text_color=c9d1d9&langs_count=8" />
 
 </div>
 
 ---
 
-## 📈 GitHub Overview
+## `$ trophy --show`
+
+<div align="center">
+
+[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=mridul010&theme=onestar&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## `$ git log --graph --all`
+
+<div align="center">
+
+[![Mridul's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mridul010&theme=github-compact&bg_color=0D1117&color=A8FF78&line=A8FF78&point=ffffff&area=true&hide_border=true&area_color=0a2a0a)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## `$ neofetch --summary`
 
 <div align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mridul010&theme=github_dark" width="100%" />
+
+<br/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mridul010&theme=github_dark" height="175" />
 &nbsp;
@@ -162,32 +252,109 @@ Multi-model ensemble for stock & financial forecasting. Deep learning meets grad
 
 </div>
 
-## 🛠 Arsenal
+---
 
-| Category | Tools |
-|----------|-------|
-| **Languages** | Python · JavaScript · SQL · C |
-| **Backend** | Flask · Node.js · REST APIs · Server-Side Dev |
-| **Databases** | MySQL · PostgreSQL · Firebase |
-| **Systems** | Linux · Docker · TCP/IP · Socket Programming |
-| **ML** | Scikit-Learn · TensorFlow · XGBoost · Pandas |
-| **Automation** | Selenium · GitHub Actions · Puppeteer |
-| **Tools** | Git · Postman · VSCode |
+## `$ man arsenal`
+
+| Category | Stack |
+|:---------|:------|
+| **Languages** | `Python` `JavaScript` `Java` `C` `SQL` |
+| **Backend** | `Flask` `FastAPI` `Node.js` `REST APIs` `WebSockets` |
+| **Databases** | `MySQL` `PostgreSQL` `Firebase` `SQLite` |
+| **AI / ML** | `TensorFlow` `Scikit-Learn` `PyTorch` `OpenCV` `Pandas` `NumPy` |
+| **Systems** | `Linux` `Docker` `TCP/IP` `Socket Programming` `OS Internals` |
+| **Automation** | `Selenium` `Puppeteer` `GitHub Actions` `Cron` |
+| **Dev Tools** | `Git` `Postman` `VSCode` `Vim` `tmux` |
+| **Currently Learning** | `System Design` `Distributed Systems` `Low-Level DB Internals` |
+
+---
+
+## `$ tail -f /var/log/snake.out`
+
+> *My GitHub contributions, devouring themselves.*
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mridul010/mridul010/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mridul010/mridul010/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/mridul010/mridul010/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+</div>
+
+> ℹ️ **To enable the snake animation** — add this GitHub Action to `.github/workflows/snake.yml` in your profile repo:
+
+<details>
+<summary><b>📋 Click to copy — snake.yml workflow</b></summary>
+
+```yaml
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+</details>
+
+---
+
+## `$ curl -X GET /api/connect`
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20Connect-A8FF78?style=for-the-badge&logo=linkedin&logoColor=0D1117&labelColor=A8FF78&color=0D1117)](https://www.linkedin.com/in/mridul-chundaran/)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-Drop%20a%20Mail-A8FF78?style=for-the-badge&logo=gmail&logoColor=0D1117&labelColor=A8FF78&color=0D1117)](mailto:mridulchundaran@gmail.com)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-Follow%20Along-A8FF78?style=for-the-badge&logo=github&logoColor=0D1117&labelColor=A8FF78&color=0D1117)](https://github.com/Mridul010)
+
+<br/>
+
+```
+Open to:  Collaborations · Backend Roles · Interesting Problems
+Not open: Spam · Boring CRUDs · "Can you do it for free?"
+```
+
+</div>
 
 ---
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=A8FF78)](https://www.linkedin.com/in/mridul-chundaran/)
-&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=A8FF78)](mailto:mridulchundaran@gmail.com)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=A8FF78)](https://github.com/Mridul010)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A8FF78,50:0a1f0a,100:0D1117&height=120&section=footer" width="100%" />
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A8FF78,50:0a1f0a,100:0D1117&height=100&section=footer" width="100%" />
+```
+built with obsession  ·  shipped with coffee ☕  ·  Kerala → Backend → Everywhere
+```
 
-<sub>built with obsession &nbsp;·&nbsp; shipped with coffee ☕ &nbsp;·&nbsp; Kerala → Backend → Everywhere</sub>
+![](https://hit.yhype.me/github/profile?user_id=mridul010)
 
 </div>
+
+<!-- Last updated: auto -->
